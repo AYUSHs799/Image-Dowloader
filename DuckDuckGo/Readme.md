@@ -17,3 +17,4 @@ The above command will search for the query phrase ```kittens```, and then will 
 Each downloaded image will have a randomic UUIDv4 name.
 
 ### For Reference : https://github.com/JorgePoblete/DuckDuckGoImages
+Above usage text is from the original repo.
